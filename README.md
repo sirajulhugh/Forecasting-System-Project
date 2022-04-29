@@ -22,5 +22,5 @@ Forecasting System - Project Demand of Products at a Retail Outlet Based on Hist
  Windows O.S. (opt)
 
 #### Dataset  Sources used here :
- https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+ https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales 
 
